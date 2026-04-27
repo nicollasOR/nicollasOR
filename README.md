@@ -32,7 +32,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=3px&duration=3500&pause=1000&color=F7F7F7&center=true&random=true&width=500&lines=Full-Stack+Developer;Nicollas+Oliveira" alt="Typing SVG" /></a>
 <br>
-  <img align ="center"  src="../controllerMD/dazai-dazai-osamu.gif" width="100%" height="400">
+  <img align ="center"  src="assets/dazai-dazai-osamu.gif" width="100%" height="400">
 </div>
 
 
