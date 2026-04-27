@@ -171,14 +171,15 @@ class Program
           <a href="https://github.com/nicollasOR/AssetControl">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicollasOR&repo=AssetControl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
           </a> 
-  </td>
-
-  </tr>
-    <td align="center">
+    </td>
+        <td align="center">
           <a href="https://github.com/nicollasOR/RoyalEvents">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicollasOR&repo=RoyalEvents&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
           </a>         
   </td>
+
+  </tr>
+
   </table>
 </div>
 
