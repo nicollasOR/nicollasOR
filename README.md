@@ -151,6 +151,7 @@ class Program
 <div id="projects"></div>
 <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Stats" alt="Typing SVG" /></a></div>
 
+<div id="stats"></div>
 <div align="center"> 
   <table>
   <tr>
