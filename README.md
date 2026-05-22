@@ -185,7 +185,7 @@ class Program
 </div>
 
 
-#
+
 
 <div href="#stats"></div>
 
